@@ -5,3 +5,6 @@ target
 *.jar
 *.war
 *.ear
+.settings
+.project
+.classpath
