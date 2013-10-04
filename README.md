@@ -3,6 +3,12 @@
 
 authy-java - a Java implementation of the Authy API (www.authy.com)
 
+# Maven
+
+Group ID: com.untzuntz.authy
+Artifact: authy-java
+Version:  1.0.0
+
 # Usage
 
     import com.untzuntz.authy.Authy
